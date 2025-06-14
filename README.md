@@ -7,7 +7,7 @@ string_to_line (takes parameters in the RAX(number), and RDI(string))
 
 WARNING: You MUST define `fd resq 1` in .bss or this will segfault. 
 
-To work with this file you can use nasm command < %include NASM_tools.inc >
+To work with this file you can use nasm command `%include NASM_tools.inc`
 
 
 
